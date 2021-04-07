@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+nav{
+    background-color: #58D26A;
+    text-align: right;
+    font-size: 1.5rem;
+    padding: 2vh;
+}
+nav a{
+    background-color: #58D26A;
+    text-decoration: none;
+    color: white;
+    margin-right: 10rem;
+}
+
+nav a:hover{
+
+    color:whitesmoke
+
+}
+
+.formulario{
+    width: 60%;
+    margin-top: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5vh;
+}
+.formulario h2{
+    margin-bottom: 2rem;
+    margin-top: 3rem;
+}
+.text{
+    width: 99.2%;
+}
+
+footer{
+    background-color: #252525;
+    color: white;
+    text-align: center;
+    padding: 3vh;
+}
+
+.titulo{
+    text-align: center;
+    margin-top: 5vh;
+}
+.contabla{
+    width:80%;
+    margin: auto;
+    height: 75vh;
+
+}
+
+.table{
+    margin-top: 5vh;
+    width: 80%;
+    margin-left :auto;
+    margin-right: auto;
+}
+table{
+    width: 100%;
+    border: 10px;
+}
